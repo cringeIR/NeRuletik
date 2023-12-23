@@ -1,0 +1,145 @@
+html {
+		background: url(img/fon1.png);
+		background-attachment:fixed;
+}
+
+
+.container{
+	display:flex;
+	background-color: rgba(0,0,0,0.7);
+	justify-content: flex-start;
+	align-items: center;
+	height: 105px;
+	padding-left: 279px;
+	padding-right: 267px;
+	margin-bottom: 30px;}
+	
+.container1{
+	display:flex;
+	flex-direction: column;
+	background-color: rgba(0,0,0,0.5);
+	justify-content: flex-start;
+	margin-left: 279px;
+	margin-right: 279px;
+	margin-top: 90px;}
+	
+.container2{
+	display:flex;
+	padding-top: 65px;}
+	
+	
+.container3{
+	display:flex;
+	padding-top: 90px;
+	background-color: rgba(0,0,0,0.7);
+	padding-right: 267px;
+	flex-direction: column;
+	align-items: flex-end;
+	padding-bottom: 70px;
+	margin-top: 80px;
+	}
+	
+.text{
+	
+color: #E0E0D9;
+font-family: Piedra;
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;}
+
+.text1{
+	
+color: rgba(245, 245, 245, 0.90);
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 141.023%;
+padding-left: 42px;
+padding-right: 24px;
+padding-top: 50px;
+}
+
+.text2{
+color: #D9D9D9;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-bottom: solid 4px #EE9655;
+margin-left: 42px;
+margin-right: 42px;
+padding-top: 46px;
+
+}
+
+
+.text4{
+color: #D9D9D9;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;}
+
+.text3{
+	color: #EE9655;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;}
+
+.video{
+padding-top:100px;}
+
+table {
+    border: 2px solid #EE9655;
+    border-collapse: separate;
+}
+
+thead{
+color: #FFFFFF;
+background: rgba(0, 0, 0, 0.75);
+height: 64px;
+}
+tbody{
+color: #FFFFFF;
+height: 142px;
+}
+
+td{
+	
+	background-color:rgba(5, 13, 8, 0.60);
+}
+timg{
+	width: 127px; 
+	height: 113px;
+}
+
+.text5{
+	color: rgba(245, 245, 245, 0.90);
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 141.023%; 
+padding-left: 21px;
+padding-right: 21px;
+}
+.text6{
+	color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
